@@ -165,7 +165,41 @@ a {
 .back img {
   width: 50px;
 }
-
+.sec3 .fon1 {
+  position: relative;
+  font-size: 36px;
+  left: 10px;
+  top: 20%;
+}
+.sec3 .fon2 {
+  position: relative;
+  font-size: 30px;
+  left: 10px;
+  top: 22%;
+}
+.sec3 .fon3 {
+  position: relative;
+  font-size: 24px;
+  left: 10px;
+  top: 25%;
+}
+.sec3 .fon4 {
+  position: relative;
+  font-size: 16px;
+  left: 11px;
+  top: 30%;
+}
+.sec3 img {
+  /* border: 1px solid red; */
+  position: relative;
+  top: 7vh;
+  left: 40%;
+}
+.sec3 .cart {
+  position: relative;
+  top: 9vh;
+  left: 32%;
+}
 /* .card_con = ul */
 .card_con {
   max-width: 70%;
